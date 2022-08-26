@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.banner {
+  width: 100%;
+}
+.container {
+  background-color: #000000;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  color: #ffffff;
+  overflow: scroll;
+  padding-bottom: 50px;
+}
+.sliderContainer {
+  height: 30vh;
+  width: 100%;
+}
+.prime-slide-container {
+  width: 90%;
+  margin: auto;
+}

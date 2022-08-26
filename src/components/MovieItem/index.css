@@ -1,0 +1,30 @@
+.popup-content {
+  background-color: #ffffff;
+  width: 750px;
+  height: 460px;
+  border-radius: 10px;
+}
+.thumbnail {
+  width: 330px;
+  border-radius: 10px;
+}
+.closeBtn {
+  align-self: flex-end;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.movie-player-container {
+  margin-top: 12px;
+  margin-left: 48px;
+  margin-bottom: 48px;
+  margin-right: 48px;
+}
